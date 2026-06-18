@@ -1,0 +1,17 @@
+{
+  "instance_type": "e2-standard-8",
+  "vcpu": 8,
+  "ram_gb": 32,
+  "dataset": "Credit Card Fraud Detection",
+  "dataset_rows": 284807,
+  "load_time_sec": 2.2561,
+  "train_time_sec": 3.9398,
+  "best_iteration": 181,
+  "auc_roc": 0.96658,
+  "accuracy": 0.99526,
+  "f1_score": 0.383562,
+  "precision": 0.247059,
+  "recall": 0.857143,
+  "inference_latency_1row_ms": 0.336,
+  "inference_throughput_1000rows_ms": 2.4299
+}
